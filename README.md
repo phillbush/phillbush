@@ -6,7 +6,7 @@ Computer Scientist.  He likes birds, hammocks, computers, forró and
 philology.
 He is not related to [Ayrton Senna](https://en.wikipedia.org/wiki/Ayrton_Senna).
 
-This repository contains personal projects.  
+These repositories contain personal projects.  
 Most large projects are written in C; small projects and scripts are
 mostly written in POSIX Shell or AWK.
 
