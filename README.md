@@ -10,4 +10,4 @@ These repositories contain personal projects.
 Most large projects are written in C; small projects and scripts are
 mostly written in POSIX Shell or AWK.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillbush&layout=compact&hide=Roff,HTML,Makefile"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillbush&layout=compact&hide=HTML"/>
